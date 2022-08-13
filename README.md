@@ -1,7 +1,7 @@
 # Deusdedit Junior Portfolio de Projetos Business Intelligence
  Page criada para divulgação de projetos de Business Intelligence (Repositório com uma Página Web de dashboards e case dos projetos)
  
-## Link para acessar aos relatórios em tempo real:
+## Link para acessar os relatórios em tempo real:
 #### Page: https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos/
 
 ## Status
