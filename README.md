@@ -4,10 +4,10 @@
 ## Link para acessar os relatórios em tempo real:
 #### Page: https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos/
 
-## Status
-Em construção.
+## Status da Page:
+![Badge Status projeto](http://img.shields.io/static/v1?label=STATUS&message=CONSTRUCAO&color=GREEN&style=for-the-badge)
 
-## Tecnologias 
+## 🛠️ Tecnologias 
 As seguintes ferramentas foram usadas na construção dos projetos:
 
 - Power BI;
