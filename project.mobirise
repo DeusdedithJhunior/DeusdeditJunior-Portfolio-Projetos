@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Deusdedit Junior - Business Intelligence",
-    "currentPage": "analyticsdeusdeditjunior.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -45,7 +45,7 @@
     "versionPublish": "5.6.11",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/icon-logo-128x111.png",
-    "mbrsiteDomain": "vr76zyfoig",
+    "mbrsiteDomain": "tvfrqiyy4n",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -54,7 +54,7 @@
     "gdpr": false
   },
   "pages": {
-    "analyticsdeusdeditjunior.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Deusdedit Junior - Solução Inteligente",
