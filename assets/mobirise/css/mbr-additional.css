@@ -1569,33 +1569,33 @@ a {
 }
 .cid-tfi20E7UQQ {
   padding-top: 2rem;
-  padding-bottom: 1rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
   .cid-tfi20E7UQQ .carousel {
-    min-height: 700px;
+    min-height: 900px;
   }
   .cid-tfi20E7UQQ .carousel img {
-    max-height: 700px;
+    max-height: 900px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-tfi20E7UQQ .carousel {
-    min-height: 455px;
+    min-height: 585px;
   }
   .cid-tfi20E7UQQ .carousel img {
-    max-height: 455px;
+    max-height: 585px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
   .cid-tfi20E7UQQ .carousel {
-    min-height: 385px;
+    min-height: 495px;
   }
   .cid-tfi20E7UQQ .carousel img {
-    max-height: 385px;
+    max-height: 495px;
     object-fit: contain;
   }
   .cid-tfi20E7UQQ .container .carousel-control {
@@ -1694,6 +1694,7 @@ a {
 }
 .cid-tfi20E7UQQ H5 {
   color: #4479d9;
+  text-align: center;
 }
 .cid-tfi20E7UQQ P {
   color: #000000;
